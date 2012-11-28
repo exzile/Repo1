@@ -1,0 +1,24 @@
+input[type="button"]{
+margin-left: 20% !important;
+data-inline: true;
+width: 200px;
+
+}
+
+#mapholder{
+width: 90%;
+height: 50%;
+Margin: 2%;
+border: solid;
+border-color: white;
+}
+#header{
+font-size: 20%;
+}
+#sidenav{
+ border: solid;
+ border-color: white;
+ margin: 3%;
+ margin-top: .5%;
+ margin-bottom: 0%;
+}
